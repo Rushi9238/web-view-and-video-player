@@ -73,11 +73,10 @@ This app is built with **Expo (React Native)** and demonstrates:
 
 ## 📸 Screenshots
 
-### WebView + Notifications Page
-![WebView Screenshot](./assets/images/image1.jpg)
-
-### Video Player Page
-![Video Player Screenshot](./assets/images/image2.jpg)
+<p align="center">
+  <img src="./assets/images/image1.jpeg" alt="WebView Screenshot" width="45%"/>
+  <img src="./assets/images/image2.jpeg" alt="Video Player Screenshot" width="45%"/>
+</p>
 
 ---
 
