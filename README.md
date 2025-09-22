@@ -1,6 +1,13 @@
-# WebView + Notifications + Video Player App
+# 📱 Expo React Native Assignment: WebView + Notifications + Video Player
 
 A comprehensive Expo React Native app that combines WebView functionality, local notifications, and HLS video streaming with custom controls.
+
+## 🎯 Objective
+This app is built with **Expo (React Native)** and demonstrates:
+1. Embedding a website inside a WebView.
+2. Triggering local notifications with a delay.
+3. Playing HLS video streams with media controls.
+4. Smooth navigation between WebView and Video Player pages.
 
 ## 🎯 Features
 
@@ -61,6 +68,18 @@ A comprehensive Expo React Native app that combines WebView functionality, local
 - **Delayed Notifications**: Uses Expo's scheduling API for precise timing
 - **User Feedback**: Alert dialogs confirm when notifications are scheduled
 - **Sound & Visual**: Notifications include sound and visual alerts
+
+---
+
+## 📸 Screenshots
+
+### WebView + Notifications Page
+![WebView Screenshot](./assets/images/image1.jpg)
+
+### Video Player Page
+![Video Player Screenshot](./assets/images/image2.jpg)
+
+---
 
 ## 🚀 Running the App
 
